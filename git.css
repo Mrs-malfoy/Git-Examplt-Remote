@@ -2,3 +2,13 @@ body
 {
     background: burlywood;
 }
+h1
+{
+    color: aqua;
+    text-align: center;
+}
+p{
+    font-family: "Arial Black";
+    font-size: large;
+    text-align: center;
+}
